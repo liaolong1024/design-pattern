@@ -1,4 +1,4 @@
-package com.java.facade;
+package com.java.facade.device;
 
 /**
  * @author ll
